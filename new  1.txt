@@ -1,0 +1,22 @@
+<form action="login.php" method='POST'>
+			Student ID:<br>
+			<input type="text"  placeholder="User ID"  name="user_id">
+			<br>
+			Password:<br>
+			<input type="password" placeholder="**********"  name="password">
+			<br>
+			<br>
+			<input type="submit" value="Student Login">
+			<br>	
+			</form>
+			<br><br>
+			<form action="logint.php" method='POST'>
+			Teachear's ID:<br>
+			<input type="text" placeholder="User ID" name="user_id:">
+			<br>
+			Password:<br>
+			<input type="password" placeholder="**********" name="password">
+			<br>
+			<br>
+			<input type="submit" value="Teachers Login">
+			</form>
